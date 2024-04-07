@@ -1,4 +1,6 @@
-### Hi there 👋
+### hello
+
+i'm a student at the university of chicago, class of 2026. i'm majoring in economics and data science.
 
 <!--
 **vincent1925/vincent1925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
