@@ -1,4 +1,4 @@
-### hello
+### hello 😶‍🌫️
 
 i'm a student at the university of chicago, class of 2026. i'm majoring in economics and data science.
 
